@@ -1,3 +1,8 @@
+---
+title: "Jersey Design"
+date: 2019-01-20
+---
+
 # Jersey Design
 
 To submit a jersey design concept, please visit newbalanceteams.com and once completed, click the share button and email it to Cody Box at coachcodybox@gmail.com.
