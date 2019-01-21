@@ -1,6 +1,7 @@
 title: Warriors Baseball Back Page
 author: Coach Cody Box
 email: coachcodybox@gmail.com
+
 description: > # this means to ignore newlines until "baseurl:"
   Official Back Page for Houston Warriors Baseball Academy.
   This page includes important files, forms and updates for
@@ -12,4 +13,4 @@ github_username:  @baksterbox
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-minimal
+theme: minimal
